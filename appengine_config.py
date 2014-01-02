@@ -1,1 +1,1 @@
-webapp_django_version = "1.6"
+codefish_django_version = "1.6"
