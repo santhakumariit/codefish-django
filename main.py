@@ -9,7 +9,7 @@ settings._target = None
 
 # Must set this env var before importing any part of Django
 # 'project' is the name of the project created with django-admin.py
-os.environ['DJANGO_SETTINGS_MODULE'] = 'project.settings'
+os.environ['DJANGO_SETTINGS_MODULE'] = 'codefish.settings'
 
 import logging
 import django.core.handlers.wsgi
