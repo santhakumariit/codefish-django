@@ -8,3 +8,4 @@ This application is used for screencast tutorials about how to set up Codeship p
 Test Comment
 Test Comment 1
 Test Comment 2
+Test Comment 3
